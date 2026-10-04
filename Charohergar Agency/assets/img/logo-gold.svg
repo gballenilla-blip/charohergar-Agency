@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Charohergar">
+  <title>Charohergar</title>
+  <g fill="none" stroke="#C9A227" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 398 C 18 336 6 214 58 142 C 108 74 208 46 300 48 C 380 50 440 78 462 120 C 478 150 468 182 442 192"/>
+    <path d="M150 434 C 140 352 166 268 206 214 C 236 172 270 178 262 214 C 254 254 214 300 199 342"/>
+    <path d="M199 342 C 224 320 250 302 268 322 C 289 344 293 392 283 434"/>
+    <path d="M283 434 C 332 458 402 464 456 432 C 481 416 487 392 470 384"/>
+  </g>
+  <rect x="176" y="40" width="160" height="432" fill="none" stroke="#C9A227" stroke-width="3" opacity="0.5"/>
+</svg>
